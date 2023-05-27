@@ -12,5 +12,10 @@ I am excited about the opportunity to connect with other developers and learn fr
 
 Thank you for visiting my GitHub profile. I look forward to continuing my journey as a developer and undertaking exciting projects.
 
-Here is a cool cat
+<details>
+  <summary>Here is a cool cat</summary
 ![image](https://github.com/HitoHitoNika/HitoHitoNika/assets/103290810/2115f813-22c4-44a8-ad64-508a287faa28)
+    </details>
+    
+### Contact
+- Discord: HitoHitoNika#1234
