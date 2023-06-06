@@ -14,7 +14,9 @@ Thank you for visiting my GitHub profile. I look forward to continuing my journe
 
 <details>
   <summary>Here is a cool cat</summary>
+  
 ![image](https://github.com/HitoHitoNika/HitoHitoNika/assets/103290810/2115f813-22c4-44a8-ad64-508a287faa28)
+  
     </details>
     
 ### Contact
