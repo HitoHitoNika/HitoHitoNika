@@ -19,4 +19,4 @@ Thank you for visiting my GitHub profile. I look forward to continuing my journe
     </details>
     
 ### Contact
-- Discord: HitoHitoNika#1234
+- Discord: HitoHitoNika
