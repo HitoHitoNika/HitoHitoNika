@@ -1,10 +1,10 @@
-# Hi there 👋
+<h1 align="center">Hey, I´m Max</h1>
 
-## About Me
+<h2 align="center">About Me <p align="right"><img src="https://komarev.com/ghpvc/?username=hitohitonika&color=yellowgreen&style=plastic" alt="Profile Views"></h2>
 
 My name is Max , and I am a self-taught Developer. I have a diverse range of interests in the field of computer science, with a primary focus on software development, cryptography, and automation.
 
-### Languages
+<h2 align="center"> Languages </h2>
 
 ![java](https://github.com/HitoHitoNika/HitoHitoNika/assets/103290810/4c1b6c72-00a1-4c36-bd9a-99412ad4d6a5)
 ![c++](https://github.com/HitoHitoNika/HitoHitoNika/assets/103290810/b1b9cb20-bc92-4744-8ac0-965fff2f6b1d)
@@ -14,16 +14,13 @@ My name is Max , and I am a self-taught Developer. I have a diverse range of int
 ![python](https://github.com/HitoHitoNika/HitoHitoNika/assets/103290810/1b7580f1-bca5-4d4c-a36c-23c9c04ae155)
 ###### All Icons used are from icons8
 
-## What can you find here ?
+<h2 align="center"> What can you find here ? </h2>
 
-On my GitHub profile, you will primarily find private projects and school assignments that I am happy to share. These projects allow me to further develop my skills and explore new technologies.
+On my GitHub profile, you will primarily find private projects and school assignments that I am happy to share.
 
-I am excited about the opportunity to connect with other developers and learn from their experiences. Therefore, I am always open to collaborations and feedback on my projects. If you are interested in my work or have any questions, please feel free to contact me.
+I am always open to collaborations and feedback on my projects. If you are interested in my work or have any questions, please feel free to contact me.
 
-
-
-    
-## Contact
+<h2 align="center"> Contact </h2>
 - Discord: HitoHitoNika
 
 <details>
