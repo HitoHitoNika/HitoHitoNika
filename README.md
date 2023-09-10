@@ -21,11 +21,13 @@ On my GitHub profile, you will primarily find private projects and school assign
 I am always open to collaborations and feedback on my projects. If you are interested in my work or have any questions, please feel free to contact me.
 
 <h2 align="center"> Contact </h2>
-<p align="left"><img src="https://user-images.githubusercontent.com/12815734/246978872-e7f64a9f-e132-4084-856c-d91fb4985d1c.png" width=40px height=40px> HitoHitoNika</p>
+<p align="left"><img src="https://user-images.githubusercontent.com/12815734/246978872-e7f64a9f-e132-4084-856c-d91fb4985d1c.png" width=20px height=20px> HitoHitoNika</p>
 
 <details>
   <summary>Here is a cool cat</summary>
   
 ![image](https://github.com/HitoHitoNika/HitoHitoNika/assets/103290810/2115f813-22c4-44a8-ad64-508a287faa28)
     </details>
-<img src="https://media.tenor.com/7MQpaZo-aLsAAAAd/gear-5-laugh.gif">
+    <p align=center>
+<img src="https://media.tenor.com/7MQpaZo-aLsAAAAd/gear-5-laugh.gif" width=384px height=200px vertical-align: middle>
+</p>
